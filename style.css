@@ -1,0 +1,51 @@
+
+.top-background-img {
+    background-image: url('./images/sunrise.jpg');
+}
+
+.logo-background {
+    position: relative; 
+    left: 0; 
+    top: 0; 
+    z-index: 1; 
+    border: none;
+}
+
+.logo-outer-halo {
+    position: 
+    absolute; 
+    left: 0; 
+    top: 0; 
+    z-index: 2; 
+    border: none; 
+    box-shadow: none;
+}
+
+.logo-middle-halo {
+    position: absolute; 
+    left: 0; 
+    top: 0; 
+    z-index: 3; 
+    border: none; 
+    box-shadow: none;
+}
+
+.logo-inner-halo {
+    position: 
+    absolute; 
+    left: 0; 
+    top: 0; 
+    z-index: 4; 
+    border: none; 
+    box-shadow: none;
+}
+
+.logo-center {
+    position: 
+    absolute; 
+    left: 0; 
+    top: 0; 
+    z-index: 5; 
+    border: none; 
+    box-shadow: none;
+}

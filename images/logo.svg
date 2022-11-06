@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Archivo Black">@import url(https://fonts.googleapis.com/css2?family=Archivo+Black%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <ellipse style="paint-order: fill; fill: rgb(6, 170, 253);" cx="235.722" cy="241.185" rx="183.479" ry="196.587"/>
+  <ellipse style="paint-order: fill; fill: rgb(17, 225, 244);" cx="232.111" cy="290.91" rx="121.897" ry="145.438"/>
+  <ellipse style="paint-order: fill; fill: rgb(9, 139, 13);" cx="231.41" cy="330.933" rx="90.37" ry="107.074"/>
+  <ellipse style="fill: rgb(255, 255, 0); paint-order: fill;" cx="231.019" cy="377.087" rx="49.739" ry="57.267"/>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Archivo Black&quot;; font-size: 54.8662px; font-weight: 700; line-height: 67.1305px; white-space: pre;" transform="matrix(0.619685, 0, 0, 0.619689, 47.862228, 493.795044)">InnerLight Coaching</text>
+</svg>

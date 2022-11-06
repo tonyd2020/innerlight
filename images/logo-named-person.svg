@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="243.757" cy="379.055" r="54.431" id="gradient-1" gradientTransform="matrix(1.493054, 0, 0, 1, -120.185336, 0)">
+      <stop offset="0" style="stop-color: rgb(255, 226, 153);"/>
+      <stop offset="1" style="stop-color: rgba(147, 105, 0, 1)"/>
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0.000014, 1.11999)">
+    <path d="M -260.812 -484.716 Q -250 -492.997 -239.188 -484.716 L -170.715 -432.267 Q -159.903 -423.986 -181.526 -423.986 L -318.474 -423.986 Q -340.097 -423.986 -329.285 -432.267 Z" style="fill: rgb(70, 97, 114);" transform="matrix(-1, 0, 0, -1, 0, 0)" bx:shape="triangle -340.097 -492.997 180.194 69.011 0.5 0.12 1@231be239"/>
+    <path d="M 239.188 438.15 Q 250 429.869 260.812 438.15 L 329.285 490.599 Q 340.097 498.88 318.474 498.88 L 181.526 498.88 Q 159.903 498.88 170.715 490.599 Z" style="fill: rgb(70, 97, 114);" bx:shape="triangle 159.903 429.869 180.194 69.011 0.5 0.12 1@aa2988a5"/>
+    <ellipse style="paint-order: fill; fill: url(#gradient-1);" cx="244.852" cy="395.487" rx="54.431" ry="52.695"/>
+  </g>
+</svg>

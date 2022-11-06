@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Archivo Black">@import url(https://fonts.googleapis.com/css2?family=Archivo+Black%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="246.952" y1="12.127" x2="246.952" y2="501.776" id="gradient-1" spreadMethod="pad" gradientTransform="matrix(1.015607, 0, 0, 1.029083, -0.020399, -14.593027)">
+      <stop offset="0" style="stop-color: rgba(216, 216, 216, 1)"/>
+      <stop offset="1" style="stop-color: rgba(165, 165, 165, 1)"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.307" y="-2.113" width="498.957" height="503.889" style="fill: url(#gradient-1); fill-opacity: 0.79; paint-order: fill;"/>
+  <ellipse style="paint-order: fill; fill: rgb(6, 170, 253);" cx="237.365" cy="242.828" rx="183.479" ry="183.99"/>
+  <ellipse style="paint-order: fill; fill: rgb(17, 225, 244);" cx="233.754" cy="302.96" rx="121.897" ry="122.434"/>
+  <ellipse style="paint-order: fill; fill: rgb(9, 139, 13);" cx="233.053" cy="335.589" rx="90.37" ry="91.464"/>
+  <ellipse style="fill: rgb(255, 255, 0); paint-order: fill;" cx="232.662" cy="372.979" rx="49.739" ry="50.421"/>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Archivo Black&quot;; font-size: 62.9348px; font-weight: 700; line-height: 67.1305px; white-space: pre;" transform="matrix(0.619685, 0, 0, 0.619689, 22.667978, 488.318024)">InnerLight Coaching</text>
+  <rect x="430.158" y="26.368" width="1.095" height="2.739" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+</svg>
